@@ -3,11 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (Flask, Python, HTML, CSS, JavaScript, Youtube and Spotify APIs</b>
-  - [Playlist Song Downloader Project ](https://github.com/KentFiller/cs50-music-downloader-web-app/tree/main)
+  - [Project Music Link](https://github.com/KentFiller/cs50-music-downloader-web-app/tree/main)
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Geolocation Tracking](https://github.com/KentFiller/Azure-RDP-lab)
   
 <h2> 📄 Certifications:</h2>
 
-- [CS50's Introduction to Computer Science Certificate](https://photos.app.goo.gl/DMDkxkQm9FMbqwwm9)
+- [CS50's Introduction to Computer Science Certificate](https://iili.io/J7MgKHQ.png)
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/18a9aabae0178a6aec46071c4e77a139)
 
 <!--
