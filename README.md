@@ -3,9 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (Flask, Python, HTML, CSS, JavaScript, Youtube and Spotify APIs</b>
-  - [Project Music Link](https://github.com/KentFiller/cs50-music-downloader-web-app/tree/main)
+  - [Project Music Link](https://github.com/name/cs50-music-downloader-web-app/tree/main)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Geolocation Tracking](https://github.com/KentFiller/Azure-RDP-lab)
+  - [Windows EventLog: Failed RDP Logins Geolocation Tracking](https://github.com/name/Azure-RDP-lab)
+- <b>Active Directory Home Lab with PowerShell Automation</b>
+  - [Active-Directory-PS](https://github.com/name/Active-Directory-PS)
+
   
 <h2> 📄 Certifications:</h2>
 
