@@ -6,7 +6,7 @@
   - [Project Music Link](https://github.com/name/cs50-music-downloader-web-app/tree/main)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Geolocation Tracking](https://github.com/name/Azure-RDP-lab)
-  - [Active Directory Home Lab with PowerShell Automation](https://github.com/name/Active-Directory-PS)
+  - [Active Directory Home Lab with PowerShell Automation](https://github.com/KentFiller/Active-Directory-PS)
 
   
 <h2> 📄 Certifications:</h2>
