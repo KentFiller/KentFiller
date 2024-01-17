@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (Flask, Python, HTML, CSS, JavaScript, Youtube and Spotify APIs</b>
-  - [Project Music Link](https://github.com/KentFiller/playlist-song-downloader)
+  - [Playlist Song Downloader](https://github.com/KentFiller/MusicLink)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Geolocation Tracking](https://github.com/KentFiller/Azure-RDP-lab)
   - [Active Directory Home Lab with PowerShell Automation](https://github.com/KentFiller/Active-Directory-PS)
