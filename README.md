@@ -10,7 +10,6 @@
 
 - <b>Full Stack Web App (Flask, Python, HTML, CSS, JavaScript, Youtube and Spotify APIs</b>
   - [Playlist Song Downloader](https://github.com/KentFiller/MusicLink)
-
   
 <h2> 📄 Certifications:</h2>
 
