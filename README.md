@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kent! <br/><a href="#">Cybersecurity Analyst</a>, <a href="#">Programmer</a></h1>
 
-<h2>🛡️💻🔑 Software Development Projects:</h2>
+<h2>🛡️💻🔑 Cybersecurity Projects And Labs:</h2>
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Geolocation Tracking](https://github.com/KentFiller/Azure-RDP-lab)
