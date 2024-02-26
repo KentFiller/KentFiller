@@ -1,13 +1,10 @@
 <h1>Hi, I'm Kent! <br/><a href="#">Cybersecurity Analyst</a>, <a href="#">Programmer</a></h1>
 
-<h2>🛡️💻🔑 Cybersecurity Projects And Labs:</h2>
+<h2>👨‍💻 Projects And Labs:</h2>
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Geolocation Tracking](https://github.com/KentFiller/Azure-RDP-lab)
   - [Active Directory Home Lab with PowerShell Automation](https://github.com/KentFiller/Active-Directory-PS)
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
 - <b>Full Stack Web App (Flask, Python, HTML, CSS, JavaScript, Youtube and Spotify APIs</b>
   - [Playlist Song Downloader](https://github.com/KentFiller/MusicLink)
   
