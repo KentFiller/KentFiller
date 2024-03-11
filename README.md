@@ -7,6 +7,9 @@
   - [Active Directory Home Lab with PowerShell Automation](https://github.com/KentFiller/Active-Directory-PS)
 - <b>Full Stack Web App (Flask, Python, HTML, CSS, JavaScript, Youtube and Spotify APIs</b>
   - [Playlist Song Downloader](https://github.com/KentFiller/MusicLink)
+- <b>Python</b>
+  - [Tinkering with automated email messages using Python](https://github.com/KentFiller/pythonEmailSend)
+
   
 <h2> 📄 Certifications:</h2>
 
