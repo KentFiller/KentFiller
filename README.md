@@ -9,7 +9,7 @@
   - [Playlist Song Downloader](https://github.com/KentFiller/MusicLink)
 - <b>Python</b>
   - [Tinkering with automated email messages using Python](https://github.com/KentFiller/pythonEmailSend)
-
+  - [Hash Cracking](https://github.com/KentFiller/pythonHashCrack)
   
 <h2> 📄 Certifications:</h2>
 
