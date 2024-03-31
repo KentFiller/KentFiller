@@ -8,7 +8,7 @@
   - [Windows EventLog: Failed RDP Logins Geolocation Tracking](https://github.com/KentFiller/Azure-RDP-lab)
   - [Active Directory Home Lab with PowerShell Automation](https://github.com/KentFiller/Active-Directory-PS)
 - <b>Python</b>
-  - [Automated email messages using Python](https://github.com/KentFiller/pythonEmailSend)
+  - [Automated email messaging](https://github.com/KentFiller/pythonEmailSend)
   - [Hash Cracking](https://github.com/KentFiller/pythonHashCrack)
   
 <h2> 📄 Certifications:</h2>
