@@ -10,6 +10,7 @@
 - <b>Python</b>
   - [Automated email messaging](https://github.com/KentFiller/pythonEmailSend)
   - [Hash Cracking](https://github.com/KentFiller/pythonHashCrack)
+  - [Port Scanning Tool](https://github.com/KentFiller/portScanner)
   
 <h2> 📄 Certifications:</h2>
 
